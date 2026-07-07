@@ -2,7 +2,7 @@
 
 A lightweight, responsive, and interactive **Tic-Tac-Toe game** built entirely with vanilla web technologies. Play smoothly directly inside your web browser.
 
-![Tic-Tac-Toe Preview](https://unsplash.com) <!-- Replace with your own project screenshot link later -->
+
 
 ## 🚀 Features
 
